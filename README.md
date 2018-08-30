@@ -12,7 +12,7 @@ project configurations, including the tagset.
 In a later stage, the project will be run on a dedicated server.
 
 # Where are the guidelines for FrameNet annotation?
-The initial draft of the guidelines can be found [here]().
+The initial draft of the guidelines can be found [here](https://github.com/francescomambrini/GreekFramenetAnnotation/blob/master/Guidelines.md).
 
 # How to run texts and annotation
 Dowload and install Inception, either locally or an server (instructions [here](https://inception-project.github.io//releases/0.4.2/docs/user-guide.html#sect_installation)). 
