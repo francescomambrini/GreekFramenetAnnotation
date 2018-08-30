@@ -21,6 +21,7 @@ The goal of FrameNet is to create a lexical resource showing how semantic frames
 As an example of how this model can be applied to AG, consider this sentence from Sophocles, Antigone, 127-8:
 
 > **_Ζεὺς_** γὰρ *μεγάλης γλώσσης κόμπους* **ὑπερεχθαίρει**
+
 > For **_Zeus_** **detests** above all *the boasts of a proud tongue*
 
 The target LU (in bold) can be assigned to the frame: [Experiencer_focused_emotion](https://framenet2.icsi.berkeley.edu/fnReports/data/frame/Experiencer_focused_emotion.xml). The core elements that are expressed in this sentence are: the “Experiencer” (Ζεὺς, bold-italic) and the “Content” (μεγάλης γλώσσης κόμπους, italic).
